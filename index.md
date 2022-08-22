@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Mr Kapptie's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/kappter/A2Programming1Portfolio2023/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
